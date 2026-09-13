@@ -93,11 +93,11 @@ This repository showcases some of my marketing projects, strategies, campaigns, 
 |----------|-------|
 | Analytics | Google Analytics|
 | SEO | Google Search Console, SEO Tools |
-| Advertising | Google Ads, LinkedIn Ads |
+| Advertising | Google Ads, Jio Ads |
 | Website | WordPress |
 | Design | Canva |
 | Email | Email Marketing Platforms |
-| Reporting | Excel, Looker Studio |
+| Reporting | Excel |
 
 ## 📈 Key Achievements
 
@@ -112,7 +112,7 @@ This repository showcases some of my marketing projects, strategies, campaigns, 
 
 **Email:** [shanthini.alagarsamy@gmail.com]
 
-**Mobile No:** [9952293995]
+**Mobile No:** [+91 9952293995]
 
 ---
 
