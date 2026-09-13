@@ -97,7 +97,7 @@ This repository showcases some of my marketing projects, strategies, campaigns, 
 | Website | WordPress |
 | Design | Canva |
 | Email | Email Marketing Platforms |
-| Reporting | Excel, Looker Studio |
+| Reporting | Excel |
 
 ## 📈 Key Achievements
 
