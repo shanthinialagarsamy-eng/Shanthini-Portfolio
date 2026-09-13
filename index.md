@@ -23,7 +23,7 @@ Currently pursuing a **PG Diploma in Digital Marketing from IIT Roorkee**, with 
 
 ### Marketing Executive — Audit Partnership
 
-**Bangalore | June 2024 – Present**
+Bangalore | June 2024 – Present
 
 * Manage and execute digital marketing initiatives across multiple channels.
 * Develop and manage social media content for LinkedIn, Instagram, Facebook, and X/Twitter.
@@ -37,7 +37,7 @@ Currently pursuing a **PG Diploma in Digital Marketing from IIT Roorkee**, with 
 
 ### Marketing Executive — PromptCloud
 
-**Bangalore | August 2022 – April 2024**
+Bangalore | August 2022 – April 2024
 
 * Executed SEO, content marketing, email marketing, and social media initiatives.
 * Conducted keyword research, on-page optimization, content optimization, and competitor analysis.
@@ -51,7 +51,7 @@ Currently pursuing a **PG Diploma in Digital Marketing from IIT Roorkee**, with 
 
 ### Digital Marketing Associate — Park Intelli Solution
 
-**Coimbatore | February 2022 – July 2022**
+Coimbatore | February 2022 – July 2022
 
 * Managed digital marketing activities across SEO, social media, email marketing, and lead generation.
 * Supported CRM and lead management activities.
@@ -63,7 +63,7 @@ Currently pursuing a **PG Diploma in Digital Marketing from IIT Roorkee**, with 
 
 ### Digital Marketing Associate — Corpstore Business Solution
 
-**Coimbatore | January 2021 – February 2022**
+Coimbatore | January 2021 – February 2022
 
 * Managed website content and digital marketing activities.
 * Worked with WordPress for website and content management.
